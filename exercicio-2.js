@@ -56,6 +56,6 @@ const number = 21;
 
 console.log(
   `${number} ${
-    fibonacci(number) ? "pertence " : "não pertence "
+    notRecursiveFibonacci(number) ? "pertence " : "não pertence "
   } a sequência de fibonacci`
 );
