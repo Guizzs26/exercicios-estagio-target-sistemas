@@ -32,7 +32,7 @@ console.log(
   } a sequência de fibonacci.`
 );
 
-// Resolução sem recursividade
+// Resolução sem recursividade e uso de operador ternário
 
 function notRecursiveFibonacci(num) {
   let previous = 0;
