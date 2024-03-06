@@ -1,3 +1,4 @@
+// Sem recursão
 function invertedString(str) {
   let inverted = "";
 
